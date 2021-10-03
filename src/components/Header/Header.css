@@ -1,0 +1,21 @@
+.header{
+     display: flex;
+     align-items: center;
+     
+}
+.logo img {
+     width: 150px;
+}
+nav{
+     text-align: center;
+     margin-left: 200px;
+     
+}
+nav a {
+     text-decoration: none;
+     color: #1a1a1b;
+     font-size: 21px;
+     margin-right: 40px;
+     font-weight: bold;
+     font-family: sans-serif;
+ }

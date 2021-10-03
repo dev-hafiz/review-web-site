@@ -1,0 +1,142 @@
+[
+	{
+		"id": 201,
+		"img": "https://i.ibb.co/2SfCK3w/img1.jpg",
+		"title": "Awareness of different theoretical schools and approaches to literary criticism",
+		"price": "190$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 202,
+		"img": "https://i.ibb.co/kh5K07C/img2.jpg",
+		"title": "Reading and Vocabulary Course",
+		"price": "170$",
+		"teacher": "Reading and Vocabulary Course"
+	},
+	{
+		"id": 203,
+		"img": "https://i.ibb.co/1vB0dzd/img3.jpg",
+		"title": "English Pronunciation and Speaking Course",
+		"price": "150$",
+		"teacher": "Amanda James"
+	},
+	{
+		"id": 204,
+		"img": "https://i.ibb.co/Qp8WCBC/img4.jpg",
+		"title": "Composition or Expository Writing Course",
+		"price": "130$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 205,
+		"img": "https://i.ibb.co/CH5FJtv/img5.jpg",
+		"title": "Analytical Interpretation",
+		"price": "320$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 206,
+		"img": "https://i.ibb.co/m5BShG1/img6.jpg",
+		"title": "Career Information for a Degree in English",
+		"price": "190$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 207,
+		"img": "https://i.ibb.co/9gNqZy3/img7.jpg",
+		"title": "Writing Courses and Classes ",
+		"price": "270$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 208,
+		"img": "https://i.ibb.co/gwTn0MD/img8.jpg",
+		"title": "Salary and Career Info for a Travel Writer Care",
+		"price": "250$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 209,
+		"img": "https://i.ibb.co/HY9cpzk/img9.jpg",
+		"title": "Bachelor's Degree in English Language: Program Overview",
+		"price": "104$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 210,
+		"img": "https://i.ibb.co/pzcf4Kj/img10.jpg",
+		"title": "Communications and Journalism",
+		"price": "230$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 211,
+		"img": "https://i.ibb.co/wpQqGvt/img011.jpg",
+		"title": "Foreign Language and Literature",
+		"price": "290$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 212,
+		"img": "https://i.ibb.co/8jZgkW4/img12.jpg",
+		"title": "Public Relations and Advertising",
+		"price": "195$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 213,
+		"img": "https://i.ibb.co/RSbhqfZ/img13.jpg",
+		"title": "Communication Studies",
+		"price": "180$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 214,
+		"img": "https://i.ibb.co/MDf26H7/img14.jpg",
+		"title": "Doctorate, First Professional Degree, Master",
+		"price": "90$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 215,
+		"img": "https://i.ibb.co/QXbZR0P/img15.jpg",
+		"title": "Skills and assessment methods",
+		"price": "170$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 216,
+		"img": "https://i.ibb.co/fnPQ3g8/img16.jpg",
+		"title": "Ability to communicate ideas and theories",
+		"price": "160$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 217,
+		"img": "https://i.ibb.co/bWYg294/Stack-of-books-on-a-wooden-library-shelf-the-one-on-top-open-multicolored-book-spines-in-a-row-in-th.jpg",
+		"title": "Leading and participating in discussions",
+		"price": "120$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 218,
+		"img": "https://i.ibb.co/YchQNRV/img18.jpg",
+		"title": "Correct use of academic citations and referencing",
+		"price": "220$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 219,
+		"img": "https://i.ibb.co/tCFFxmr/img19.jpg",
+		"title": "Academic research skills",
+		"price": "150$",
+		"teacher": "Ida Moore"
+	},
+	{
+		"id": 220,
+		"img": "https://i.ibb.co/RTcvPN1/img20.jpg",
+		"title": "Essay planning and writing skills",
+		"price": "110$",
+		"teacher": "Ida Moore"
+	}
+]
