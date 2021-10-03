@@ -1,4 +1,5 @@
 import React from 'react';
+import DemoCourse from '../DemoCourse/DemoCourse';
 import TeachersIntro from '../TeachersIntro/TeachersIntro';
 import TopBanner from '../TopBanner/TopBanner';
 
@@ -7,6 +8,7 @@ const Home = () => {
           <div>
                <TopBanner></TopBanner>
                <TeachersIntro></TeachersIntro>
+               <DemoCourse></DemoCourse>
           </div>
      );
 };

@@ -6,8 +6,9 @@ import './Header.css';
 const Header = () => {
      return (
           <div className="header container">
-               <div className="logo">
+               <div className="logo d-flex justify-content-center align-items-center">
                     <img src={logo} alt="" />
+                    <h3 className="logo-text">Learnalogist</h3>
                </div>
                <nav>
                     <NavLink to="/home">Home</NavLink>
