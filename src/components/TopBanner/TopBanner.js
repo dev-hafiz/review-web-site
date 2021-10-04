@@ -11,7 +11,7 @@ const TopBanner = () => {
                    <h1>EFFICIENT COURSES TO LEARN</h1>
                     <p>This course will helpfull those people who are trying to make best</p>
                     <input type="text" name="" placeholder="Search your course" id="" />
-                    <button className="search-btn">search</button>
+                    <button className="primary-btn">search</button>
                    </div>
                </div>
           </div>

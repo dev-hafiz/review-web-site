@@ -1,0 +1,13 @@
+.footer{
+     background: #1a1a1b;
+     color: white;
+}
+.input-section  input {
+     width: 75%;
+     padding: 6px 15px;
+     font-size: 16px;
+     border-radius: 25px;
+     outline: none;
+     border: none;
+     margin-bottom: 14px;
+ }
