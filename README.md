@@ -1,3 +1,21 @@
+Learnalogist is Education focused Web platform
+
+## Installation
+
+Visit the site to get more information before you admit [Learnalogist](https://pip.pypa.io/en/stable/)
+
+## Usage
+
+```python
+1. This is educational focused website and if you are interested to knows us just visit our professional portfolio.
+
+2. Education category English, naturel English, IELTS,  BA(hon's ) Programme and communicating English .
+
+3. Check our course cetagory and choice what you want and whats your need .
+```
+
+[Here click to visit our site](https://choosealicense.com/licenses/mit/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

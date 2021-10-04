@@ -28,7 +28,7 @@ function App() {
           <Route path="/services">
             <Services></Services>
           </Route>
-          <Route path="/stratagy">
+          <Route path="/strategy">
             <Stratagy></Stratagy>
           </Route>
           <Route path="*">
