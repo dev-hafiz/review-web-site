@@ -2,7 +2,7 @@ Learnalogist is Education focused Web platform
 
 ## Installation
 
-Visit the site to get more information before you admit [Learnalogist](https://pip.pypa.io/en/stable/)
+Visit the site to get more information before you admit [Learnalogist](https://learnalogistcom.netlify.app/)
 
 ## Usage
 
@@ -14,7 +14,7 @@ Visit the site to get more information before you admit [Learnalogist](https://p
 3. Check our course cetagory and choice what you want and whats your need .
 ```
 
-[Here click to visit our site](https://choosealicense.com/licenses/mit/)
+[Here click to visit our site](https://learnalogistcom.netlify.app/)
 
 # Getting Started with Create React App
 
